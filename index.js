@@ -1,10 +1,10 @@
-var name ='you',holiday ='Independence Day', days = 10
+var name ='you',holiday ='Independence Day', days = 20
 
 function holidayGreeting (string){
   return ("Happy holidays!")
 }
-function happyHolidaysTo (name){
-  return (`Happy holidays, ${name},!`)
+function happyHolidaysTo (string){
+  return (`Happy holidays, ${name}!`)
 }
 function happyHolidayTo (string){
 return (`Happy ${holiday}, ${name}!`)}
