@@ -1,6 +1,6 @@
 var name ='you',holiday ='Independence Day', days = 20
 
-function holidayGreeting (string){
+function happyHolidays (string){
   return ("Happy holidays!")
 }
 function happyHolidaysTo (string){
