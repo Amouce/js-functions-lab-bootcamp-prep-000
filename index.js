@@ -1,4 +1,4 @@
-var name ='you', holiday ='New Year', days = 10
+var name ='you', holiday ='Independence Day', days = 10
 
 function holidayGreeting (string){
   return ("Happy holidays!")
